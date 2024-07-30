@@ -1,0 +1,16 @@
+.photo{
+    border: solid 2px blue;
+    width: 250px;
+    height: 280px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 100px;
+    border: solid 3px rgba(80, 150, 184, 0.867);
+    padding: 20px ;
+}
+#more{
+    border-left: 2px solid grey;
+}
